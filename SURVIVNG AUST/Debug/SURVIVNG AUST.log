@@ -1,0 +1,17 @@
+﻿Build started 7/2/2021 9:39:43 PM.
+     1>Project "C:\Users\Admin\Downloads\Our Game\SURVIVNG AUST (3)\SURVIVNG AUST\SURVIVNG AUST.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\SURVIVNG AUST.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         SURVIVNG AUST.vcxproj -> C:\Users\Admin\Downloads\Our Game\SURVIVNG AUST (3)\Debug\SURVIVNG AUST.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\SURVIVNG AUST.unsuccessfulbuild".
+         Touching "Debug\SURVIVNG AUST.lastbuildstate".
+     1>Done Building Project "C:\Users\Admin\Downloads\Our Game\SURVIVNG AUST (3)\SURVIVNG AUST\SURVIVNG AUST.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
